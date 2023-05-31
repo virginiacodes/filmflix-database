@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(141, 187, 141);
+}
+
+h1 {
+    margin-top: 40px;
+    font-family: 'Chakra Petch', sans-serif;
+    color: rgb(55, 58, 73);
+    text-align: center;
+}
+
+iframe {
+    margin-top: 30px;
+    margin-left: 50%;
+    translate: -50%;
+    border-radius: 20px;
+    box-shadow: 0 2px 8px 3px rgb(55, 58, 73);
+}
